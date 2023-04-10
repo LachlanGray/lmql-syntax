@@ -1,0 +1,33 @@
+*lmql-syntax.txt* lmql syntax highlighting
+
+==============================================================================
+Introduction                         *lmql-syntax* *ft-lmql-syntax* *lmql.vim*
+
+Extends python syntax highlighting to support lmql files. 
+
+Features
+--------
+
+* Adds keyword support for
+  * BEAM
+  * ARGMAX
+  * SAMPLE
+  * BEST_K
+  * BEAM_VAR
+  * VAR
+  * FROM
+  * WHERE
+  * DISTRIBUTION
+
+==============================================================================
+Configuration                                      *lmql-syntax-configuration*
+
+Option variables
+----------------
+
+None yet
+
+Commands
+--------
+
+None yet
